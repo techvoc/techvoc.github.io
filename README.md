@@ -1,2 +1,0 @@
-# techvoc.github.io
-Website
