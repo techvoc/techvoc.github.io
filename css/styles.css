@@ -21,7 +21,7 @@ body {
   box-shadow: 0 0 10px #202021;
 }
 input {
-  margin: 7px 0px;
+  margin: 5px 0px;
 }
 input[type=email] {
   border: 1px solid #202021;
@@ -36,6 +36,7 @@ input[type=password] {
 button[type=submit] {
   border: 1px solid #202021;
   border-radius: 5px;
+  margin: 5px 0px;
   padding: 5px;
 }
 button[type=submit]:hover {
